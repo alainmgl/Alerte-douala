@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\njikam\\\\Desktop\\\\projet\\\\.claude\\\\worktrees\\\\sad-germain-19b816\" log --stat --oneline -2)",
+      "Bash(npm install *)"
+    ]
+  }
+}

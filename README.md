@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alerte Douala
 
 Plateforme citoyenne de signalement et de suivi des catastrophes naturelles à Douala — inondations, glissements de terrain, incendies, tempêtes — couplée à un réseau de capteurs IoT ESP32 pour la prévention des inondations.
@@ -151,3 +152,6 @@ backend/
 ## Identité graphique
 
 **Brutalisme éditorial tropical** — typographie Fraunces (titres) + Inter (corps) + JetBrains Mono (chiffres), palette papier crème / vert mangrove / terre cuite / rouge alerte. Bordures épaisses, ombres décalées, texture papier subtile. Voir `src/styles/tokens.css`.
+=======
+# Alerte-douala
+>>>>>>> 454cc790ea2b6beafb9578f7413d133624096e6d
